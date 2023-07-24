@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @austin-aguilar
 - 👀 I’m interested in data science!
 - 🌱 I’m currently learning web development!
-- 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me (https://www.linkedin.com/in/austin-aguilar-2ab7a9195/)
 
 <!---
