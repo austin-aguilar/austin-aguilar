@@ -1,8 +1,8 @@
 <h1 align="left"> 👋 Hi I'm Austin Aguilar </h1>
-<h3 align="left"> Currently Studying at the University of Memphis 🐯</h3>
+<h3 align="left"> Recent graduate at the University of Memphis 🐯</h3>
 
-- 👀 I’m interested in data science!
-- 🌱 I’m currently learning web development!
+- 👀 I’m interested in learning more about neural networks and deep learning!
+- 🌱 I’m currently a web development intern!
 - 💼 Connect with me on **[Linkedin]** 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austin-aguilar&layout=compact&theme=dark&hide_border=true)
