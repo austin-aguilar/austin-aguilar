@@ -2,7 +2,7 @@
 <h3 align="left"> Recent graduate at the University of Memphis 🐯</h3>
 
 - 👀 I’m interested in learning more about neural networks and deep learning!
-- 🌱 I’m currently a web development intern!
+- 🌱 I’m currently a Software Engineering intern!
 - 💼 Connect with me on **[Linkedin]** 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austin-aguilar&layout=compact&theme=dark&hide_border=true)
