@@ -1,5 +1,5 @@
 <h1 align="left"> 👋 Hi I'm Austin Aguilar </h1>
-<h3 align="left"> Recent graduate at the University of Memphis 🐯</h3>
+<h3 align="left"> University of Memphis Graduate🐯</h3>
 
 - 👀 I’m interested in learning more about neural networks and deep learning!
 - 🌱 I’m currently a Software Engineering intern!
