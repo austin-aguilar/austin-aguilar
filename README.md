@@ -3,7 +3,6 @@
 <h3 align="left"> University of Memphis Graduate🐯</h3>
 
 - 👀 I’m currently working with and researching large language models!
-- 🌱 I’m currently a Software Engineering intern!
 - 💼 Connect with me on **[Linkedin]**
 - 📊 See more of my work on **[Kaggle]**
 
